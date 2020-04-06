@@ -79,7 +79,7 @@ api源码大部分来自https://github.com/teenyda/qingdao
  更改application.yml中的配置
 >可以在本地完成，然后通过filezilla上传，并且推荐没基础的人使用这种方法
 
-	然后把unicom.jar放到文件夹下，比如/root/godchan666文件下
+	然后把unicom.jar放到文件夹下，比如/root/java文件下
 运行
 
 	cd /root/java
