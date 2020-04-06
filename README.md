@@ -4,7 +4,7 @@
 ### 青岛啤酒撸流量，领取青岛啤酒流量和趣味天天摇（抽奖挂机）
 本文中的源代码取自[kukume](https://github.com/kukume/unicom).
 ## 操作
-- 下载代码文件，修改application.yml，使用filezilla上传（/root/java）
+- 下载代码文件，修改application.yml，使用filezilla上传（/root/godchan666）
 - 使用Xshell 6链接上你自己的VPS,输入以下代码，搭建环境
 - 访问网站--成功
 >你不一定必须要照着我的来
@@ -84,11 +84,11 @@ api源码大部分来自https://github.com/teenyda/qingdao
 	然后把unicom.jar放到文件夹下，比如/root/godchan666文件下
 运行
 
-	cd /root/java
+	cd /root/godchan666
 	java -jar unicom.jar
 	如需后台运行，可以使用screen
 
-	cd /root/java
+	cd /root/godchan666
 	screen -dmS unicom java -jar unicom.jar
 运行之后打开http://IP地址:8099即可
 
