@@ -6,7 +6,7 @@ VPS： [RackNerd](https://my.racknerd.com/aff.php?aff=376)
 哔哩哔哩：
 1. [效果演示](https://www.bilibili.com/video/BV1JZ4y1x7SV)
 2. [百度ai获取](https://www.bilibili.com/video/BV18K4y1r7WR)
-3.[搭建实战](https://www.bilibili.com/video/BV1NZ4y1x7pC)
+3. [搭建实战](https://www.bilibili.com/video/BV1NZ4y1x7pC)
 4. [设置域名访问](https://www.bilibili.com/video/BV14t4y1U7op)
 	
 	
