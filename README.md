@@ -4,10 +4,13 @@
 VPS： [RackNerd](https://my.racknerd.com/aff.php?aff=376)
 ## 视频演示
 哔哩哔哩：
-- [效果演示1](https://www.bilibili.com/video/BV1JZ4y1x7SV)
-	[百度ai获取](https://www.bilibili.com/video/BV18K4y1r7WR)
-	[搭建实战](https://www.bilibili.com/video/BV1NZ4y1x7pC)
-	[设置域名访问](https://www.bilibili.com/video/BV14t4y1U7op)
+1. [效果演示](https://www.bilibili.com/video/BV1JZ4y1x7SV)
+2. [百度ai获取](https://www.bilibili.com/video/BV18K4y1r7WR)
+3.[搭建实战](https://www.bilibili.com/video/BV1NZ4y1x7pC)
+4. [设置域名访问](https://www.bilibili.com/video/BV14t4y1U7op)
+	
+	
+	
 
 ### 青岛啤酒撸流量，领取青岛啤酒流量和趣味天天摇（抽奖挂机）
 本文中的源代码取自[kukume](https://github.com/kukume/unicom).
